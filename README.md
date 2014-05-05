@@ -1,4 +1,4 @@
 bauble
 ======
 
-Guice injection centric OpenGL toolkit
+A guice injection/eventbus centric Android OpenGL toolkit.
